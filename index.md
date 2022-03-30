@@ -8,15 +8,18 @@
 
 ### Biography
 
+Dr. Lei Zhao has been involved in the fields of virus evolution and  
+
 Since 2017 working in the Children’s Hospital of Fudan University, Dr. Xinran Dong has been engaged in the algorithm development involved in genetic testing pipeline and disease mechanism study, data analysis for clinical cohort and AI (artificial intelligence) pipeline construction for neonatal EEG (Electroencephalogram) diagnosis. The developed algorithms have not only solved scientific and clinical problems, but also been deployed and applied in routine work through the construction of web service platforms. 
 She joined the primary force of IRDIRC (International Rare Diseases Research Consortium). As a patient of rare disease, Xinran Dong has decided to devote her life to the field of rare disease study. 
 
 ### Education
 
-- 2006/9	2010/7	School of Life Science, Fudan University, Shanghai, China,	Bachelor,	Biology Science
-- 2010/9	2015/7	School of Life Science, Fudan University, Shanghai, China,	Ph.D,	Bioinformatics
-- 2011/4  2012/1  Genome Center, UC Davis, USA, Visiting Scholar
-- 2018/10 2019/8  Jiyang Yu's lab, St Jude Children's Research Hospital, USA, Visiting Scholar
+- 2008/9	2012/6	School of Mathematical Sciences, Fudan University, Shanghai, China,	Bachelor,	Information and Computing Sciences
+- 2012/9	2017/6	School of Mathematical Sciences, Fudan University, Shanghai, China,	Ph.D, Applied Mathematics (Population Genetics), Supervisor: David Waxman
+- 2015/9  2016/9  Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK, Visiting PhD student, Supervisor: Brian Charlesworth
+- 2017/11 2019/10 Department of Genetics, University of Cambridge, Cambridge, UK, Postdoctoral Research Associate, Supervisor: Chris Illingworth
+- 2020/10 Now Globe Institute, University of Copenhagen, Copenhagen, Denmark, Postdoc, Supervisor: Rasmus Nielsen and Thorfinn Korneliussen
 
 ### Research Interests
 
