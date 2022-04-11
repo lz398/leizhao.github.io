@@ -10,7 +10,7 @@
 
 Dr. Lei Zhao has been engaged in the fields of population genetics, virus evolution and bioinformatics. With a strong background of mathematics and theoretical population genetics, Lei is interested in developping complex population genetics model and efficient software to detect/infer/interpret the genetic patterns conveyed by both ancient and modern data, and to better understand species evolutionary paths. 
 
-Lei is currently working as a postdoc at Globe Institute, in the University of Copenhagen, under the instructions of Prof. Rasmus Nielsen and Prof. Thorfinn Korneliussen. 
+Lei is currently working as a postdoc at Globe Institute, in the University of Copenhagen, under the instructions of Prof. Rasmus Nielsen and Prof. Thorfinn Korneliussen and ???
 
 ### Education
 
@@ -29,11 +29,9 @@ Lei is currently working as a postdoc at Globe Institute, in the University of C
 
 ### Selected publications
 
-1.	Xiao Tiantian#, Ni Qi, Chen Huiyao, Wang Huijun, Yang Lin, Wu Bingbing, Cao Yun, Cheng Guoqiang, Wang Laishuan, Hu Liyuan, Mei Hongfang, Lu Yulan, Gong Mengchun, <b>Dong Xinran*</b>, Zhou Wenhao. High-risk phenotypes of genetic disease in a Neonatal Intensive Care Unit population [J]. Chinese Medical Journal, 2022, Publish Ahead of Print
-2.	<b>Dong Xinran#</b>, Kong Yanting, Xu Yan, Zhou Yuanfeng, Wang Xinhua, Xiao Tiantian, Chen Bin, Lu Yulan, Cheng Guoqiang*, Zhou Wenhao*; Development and validation of Auto-Neo-EEG to estimate brain age and predict report conclusion for Electroencephalography monitoring data in neonatal intensive care units; Annals of Translational Medicine; SCI; (2021) 21-1564.
-3.	<b>Dong, Xinran#</b>; Yang, Lin#; Liu, Kaiyi; Ji, Xiaoli; Tang, Chuanqing; Li, Wanxing; Ma, Ling; Mei, Yuting; Peng, Ting; Feng, Ban; Wu, Ziyan; Tang, Qingyuan; Gao, Yanyan; Yan, Kai; Zhou, Wenhao*; Xiong, Man*; Transcriptional networks identify Synaptotagmin-like 3 as a hidden regulator of cortical neuron migration during early neurodevelopment, Cell Reports, 2021, 34(9):108802.
-4.	Luo,Zaili#; <b>Dong,Xinran#</b>; Yu,Jianzhong#; Xia,Yong#; Berry,Kalen P.; Rao,Rohit; Xu,Lingli; Xue,Ping; Chen,Tong; Lin,Yifeng; Yu,Jiyang; Huang,Guoying; Li,Hao*; Zhou,Wenhao*; Lu,Q. Richard*; Genomic and Transcriptomic Analyses Reveals ZNF124 as a Critical Regulator in Highly Aggressive Medulloblastomas, Frontiers in Cell and Developmental Biology, 2021, 9:634056. 
-5.	<b>Dong, Xinran#</b>; Liu, Bo#; Yang, Lin; Wang, Huijun; Wu, Bingbing; Liu, Renchao; Chen, Hongbo; Chen, Xiang; Yu, Sha; Chen, Bin; Wang, Sujuan; Xu, Xiu; Zhou, Wenhao; Lu, Yulan*; Clinical exome sequencing as the first-tier test for diagnosing developmental disorders covering both CNV and SNV: a Chinese cohort, Journal of Medical Genetics, 2020, 57(8): 558-566. 
-6.	Wu Jingfang#, <b>Dong Xinran#</b>, Li Wen#, Zhao Liping, Zhou Li, Sun Shan*, Li Huawei*. Dibenzazepine promotes cochlear supporting cell proliferation and hair cell regeneration in neonatal mice [J]. Cell Proliferation, 2020, 53(9): .(期刊论文)
-7.	秦谦#, 陈乡#, 卢宇蓝, 吴冰冰, 王慧君, 董欣然*, 杨琳*, 周文浩. ALDOB基因复合杂合变异致遗传性果糖不耐受饮食控制30年1例报告并文献复习 [J]. 中国循证儿科杂志, 2018, 13(04): 34-39.
-8.	秦谦#; 刘博#; 杨琳; 吴冰冰; 王慧君; 董欣然*; 卢宇蓝*; 周文浩; 基于高通量测序技术的拷贝数变异筛选分析流程的建立及应用, 中国循证儿科杂志, 2018, 13(4): 275-279. 
+1.  <b>Zhao, Lei#<b>; Abbasi, Ali B; Illingworth, Christopher J R ; Mutational load causes stochastic evolutionary outcomes in acute RNA viral infection, Virus Evolution, 2019, 5(1): vez008.
+2.  <b>Zhao, Lei#<b>; Illingworth, Christopher J R ; Measurements of intrahost viral diversity require an unbiased diversity metric, Virus Evolution, 2019, 5(1): vey041.
+3.  <b>Zhao, Lei#<b>; Charlesworth, Brian ; Resolving the Conflict Between Associative Overdominance and Background Selection, GENETICS, 2016, 203(3): 1315-1334.
+4.  <b>Zhao, Lei#<b>; Lascoux, Martin; Overall, Andrew D J; Waxman, David ; The Characteristic Trajectory of a Fixing Allele: A Consequence of Fictitious Selection That Arises from Conditioning, Genetics, 2013, 195(3): 993-1006.
+5.  <b>Zhao, Lei#<b>; Yue, Xingye; Waxman, David ; Complete Numerical Solution of the Diffusion Equation of Random Genetic Drift, Genetics, 2013, 194(4): 973-985.
+6.  
