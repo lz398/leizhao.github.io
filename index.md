@@ -8,10 +8,9 @@
 
 ### Biography
 
-Dr. Lei Zhao has been involved in the fields of virus evolution and  
+Dr. Lei Zhao has been engaged in the fields of population genetics, virus evolution and bioinformatics. With a strong background of mathematics and theoretical population genetics, Lei is interested in developping complex population genetics model and efficient software to detect/infer/interpret the genetic patterns conveyed by both ancient and modern data, and to better understand species evolutionary paths. 
 
-Since 2017 working in the Children’s Hospital of Fudan University, Dr. Xinran Dong has been engaged in the algorithm development involved in genetic testing pipeline and disease mechanism study, data analysis for clinical cohort and AI (artificial intelligence) pipeline construction for neonatal EEG (Electroencephalogram) diagnosis. The developed algorithms have not only solved scientific and clinical problems, but also been deployed and applied in routine work through the construction of web service platforms. 
-She joined the primary force of IRDIRC (International Rare Diseases Research Consortium). As a patient of rare disease, Xinran Dong has decided to devote her life to the field of rare disease study. 
+Lei is currently working as a postdoc at Globe Institute, in the University of Copenhagen, under the instructions of Prof. Rasmus Nielsen and Prof. Thorfinn Korneliussen. 
 
 ### Education
 
