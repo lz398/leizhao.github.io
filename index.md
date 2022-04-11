@@ -10,7 +10,7 @@
 
 Dr. Lei Zhao has been engaged in the fields of population genetics, virus evolution and bioinformatics. With a strong background of mathematics and theoretical population genetics, Lei is interested in developping complex population genetics model and efficient software to detect/infer/interpret the genetic patterns conveyed by both ancient and modern data, and to better understand species evolutionary paths. 
 
-Lei is currently working as a postdoc at Globe Institute, in the University of Copenhagen, under the instructions of Prof. Rasmus Nielsen and Prof. Thorfinn Korneliussen and ???
+Lei is currently working as a postdoc at Globe Institute, in the University of Copenhagen, under the instructions of Prof. Rasmus Nielsen and Prof. Thorfinn Korneliussen.
 
 ### Education
 
@@ -22,10 +22,9 @@ Lei is currently working as a postdoc at Globe Institute, in the University of C
 
 ### Research Interests
 
-- The development of genetic testing-related algorithms, such as pathogenicity assessment. 
-- Data analysis to investigate disease mechanism of pediatric related disorders.
-- Multi-Modality Imaging and Multi-Omics Approach of pediatric neurogenetic disorders, such as the development of neonatal EEG-related machine learning algorithms. 
-- Rare disease related technology support and education.
+- The development of complex population genetics and bioinformatics models/tools for better interpreting next-generation sequencing data. 
+- The development of statistic models for better understanding ancient DNA, e.g., PMD pattern, methylation pattern, contamination pattern, etc. 
+- Understanding of viral evolution.
 
 ### Selected publications
 
@@ -34,4 +33,8 @@ Lei is currently working as a postdoc at Globe Institute, in the University of C
 3.  <b>Zhao, Lei#<b>; Charlesworth, Brian ; Resolving the Conflict Between Associative Overdominance and Background Selection, GENETICS, 2016, 203(3): 1315-1334.
 4.  <b>Zhao, Lei#<b>; Lascoux, Martin; Overall, Andrew D J; Waxman, David ; The Characteristic Trajectory of a Fixing Allele: A Consequence of Fictitious Selection That Arises from Conditioning, Genetics, 2013, 195(3): 993-1006.
 5.  <b>Zhao, Lei#<b>; Yue, Xingye; Waxman, David ; Complete Numerical Solution of the Diffusion Equation of Random Genetic Drift, Genetics, 2013, 194(4): 973-985.
-6.  
+6.  Campos, Jose Luis; <b>Zhao, Lei<b>; Charlesworth, Brian ; Estimating the parameters of background selection and selective sweeps in Drosophila in the presence of gene conversion, Proceedings of the National Academy of Sciences of the United States of America, 2017, 114(24): E4762-E4771.
+7.  Lumby, Casper K; <b>Zhao, Lei<b>; Oporto, Macarena; Best, Tim; Tutill, Helena; Shah, Divya; Veys, Paul; Williams, Rachel; Worth, Austen; Illingworth, Christopher J R; Breuer, Judy ; Favipiravir and Zanamivir Cleared Infection with Influenza B in a Severely Immunocompromised Child, Clinica
+l Infectious Diseases, 2020, 71(7): e191-e194.
+8.  Lumby, Casper K; <b>Zhao, Lei<b>; Breuer, Judith; Illingworth, Christopher J R ; A large effective population size for established within-host influenza virus infection, eLife, 2020, 9: e56915.
+9. Qin, Bo-Wei; <b>Zhao, Lei<b>; Lin, Wei ; A frequency-amplitude coordinator and its optimal energy consumption for biological oscillators, NATURE COMMUNICATIONS, 2021, 12: 5894
