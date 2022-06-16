@@ -27,14 +27,14 @@ Lei is currently working as a postdoc at Globe Institute, in the University of C
 - Understanding of viral evolution.
 
 ### Selected publications
-
-1.  <b>Zhao, Lei#<b>; Abbasi, Ali B; Illingworth, Christopher J R ; Mutational load causes stochastic evolutionary outcomes in acute RNA viral infection, Virus Evolution, 2019, 5(1): vez008.
-2.  <b>Zhao, Lei#<b>; Illingworth, Christopher J R ; Measurements of intrahost viral diversity require an unbiased diversity metric, Virus Evolution, 2019, 5(1): vey041.
-3.  <b>Zhao, Lei#<b>; Charlesworth, Brian ; Resolving the Conflict Between Associative Overdominance and Background Selection, GENETICS, 2016, 203(3): 1315-1334.
-4.  <b>Zhao, Lei#<b>; Lascoux, Martin; Overall, Andrew D J; Waxman, David ; The Characteristic Trajectory of a Fixing Allele: A Consequence of Fictitious Selection That Arises from Conditioning, Genetics, 2013, 195(3): 993-1006.
-5.  <b>Zhao, Lei#<b>; Yue, Xingye; Waxman, David ; Complete Numerical Solution of the Diffusion Equation of Random Genetic Drift, Genetics, 2013, 194(4): 973-985.
-6.  Campos, Jose Luis; <b>Zhao, Lei<b>; Charlesworth, Brian ; Estimating the parameters of background selection and selective sweeps in Drosophila in the presence of gene conversion, Proceedings of the National Academy of Sciences of the United States of America, 2017, 114(24): E4762-E4771.
-7.  Lumby, Casper K; <b>Zhao, Lei<b>; Oporto, Macarena; Best, Tim; Tutill, Helena; Shah, Divya; Veys, Paul; Williams, Rachel; Worth, Austen; Illingworth, Christopher J R; Breuer, Judy ; Favipiravir and Zanamivir Cleared Infection with Influenza B in a Severely Immunocompromised Child, Clinica
+1.  <b>Zhao, Lei#<b>; Nielsen, Rasmus; Korneliussen, Thorfinn S; Lei Zhao, Rasmus Nielsen, Thorfinn Sand Korneliussen, distAngsd: Fast and accurate inference of genetic distances for Next Generation Sequencing data, Molecular Biology and Evolution, 2022, msac119
+2.  <b>Zhao, Lei#<b>; Abbasi, Ali B; Illingworth, Christopher J R ; Mutational load causes stochastic evolutionary outcomes in acute RNA viral infection, Virus Evolution, 2019, 5(1): vez008.
+3.  <b>Zhao, Lei#<b>; Illingworth, Christopher J R ; Measurements of intrahost viral diversity require an unbiased diversity metric, Virus Evolution, 2019, 5(1): vey041.
+4.  <b>Zhao, Lei#<b>; Charlesworth, Brian ; Resolving the Conflict Between Associative Overdominance and Background Selection, GENETICS, 2016, 203(3): 1315-1334.
+5.  <b>Zhao, Lei#<b>; Lascoux, Martin; Overall, Andrew D J; Waxman, David ; The Characteristic Trajectory of a Fixing Allele: A Consequence of Fictitious Selection That Arises from Conditioning, Genetics, 2013, 195(3): 993-1006.
+6.  <b>Zhao, Lei#<b>; Yue, Xingye; Waxman, David ; Complete Numerical Solution of the Diffusion Equation of Random Genetic Drift, Genetics, 2013, 194(4): 973-985.
+7.  Campos, Jose Luis; <b>Zhao, Lei<b>; Charlesworth, Brian ; Estimating the parameters of background selection and selective sweeps in Drosophila in the presence of gene conversion, Proceedings of the National Academy of Sciences of the United States of America, 2017, 114(24): E4762-E4771.
+8.  Lumby, Casper K; <b>Zhao, Lei<b>; Oporto, Macarena; Best, Tim; Tutill, Helena; Shah, Divya; Veys, Paul; Williams, Rachel; Worth, Austen; Illingworth, Christopher J R; Breuer, Judy ; Favipiravir and Zanamivir Cleared Infection with Influenza B in a Severely Immunocompromised Child, Clinica
 l Infectious Diseases, 2020, 71(7): e191-e194.
-8.  Lumby, Casper K; <b>Zhao, Lei<b>; Breuer, Judith; Illingworth, Christopher J R ; A large effective population size for established within-host influenza virus infection, eLife, 2020, 9: e56915.
-9. Qin, Bo-Wei; <b>Zhao, Lei<b>; Lin, Wei ; A frequency-amplitude coordinator and its optimal energy consumption for biological oscillators, NATURE COMMUNICATIONS, 2021, 12: 5894
+9.  Lumby, Casper K; <b>Zhao, Lei<b>; Breuer, Judith; Illingworth, Christopher J R ; A large effective population size for established within-host influenza virus infection, eLife, 2020, 9: e56915.
+10. Qin, Bo-Wei; <b>Zhao, Lei<b>; Lin, Wei ; A frequency-amplitude coordinator and its optimal energy consumption for biological oscillators, NATURE COMMUNICATIONS, 2021, 12: 5894
