@@ -27,7 +27,7 @@ Lei is currently working as a postdoc at Globe Institute, in the University of C
 - Understanding of viral evolution.
 
 ### Selected publications
-1.  <b>Zhao, Lei#<b>; Nielsen, Rasmus; Korneliussen, Thorfinn S; Lei Zhao, Rasmus Nielsen, Thorfinn Sand Korneliussen, distAngsd: Fast and accurate inference of genetic distances for Next Generation Sequencing data, Molecular Biology and Evolution, 2022, msac119
+1.  <b>Zhao, Lei#<b>; Nielsen, Rasmus; Korneliussen, Thorfinn S ; distAngsd: Fast and accurate inference of genetic distances for Next Generation Sequencing data, Molecular Biology and Evolution, 2022, msac119
 2.  <b>Zhao, Lei#<b>; Abbasi, Ali B; Illingworth, Christopher J R ; Mutational load causes stochastic evolutionary outcomes in acute RNA viral infection, Virus Evolution, 2019, 5(1): vez008.
 3.  <b>Zhao, Lei#<b>; Illingworth, Christopher J R ; Measurements of intrahost viral diversity require an unbiased diversity metric, Virus Evolution, 2019, 5(1): vey041.
 4.  <b>Zhao, Lei#<b>; Charlesworth, Brian ; Resolving the Conflict Between Associative Overdominance and Background Selection, GENETICS, 2016, 203(3): 1315-1334.
